@@ -1,0 +1,2 @@
+# RE2-YM2413
+ Functionally verified RE: Birth 2nd sound card. This project refers to the YM2413 audio circuit of the PS98 project. The highlight is the use of differential amplification (instead of the inverting addition used by FMPAC) to mix the MO and RO together and cancel all busses. noise and power supply noise, making this design excellent. In addition, the design supports all YM2413 clone chips, such as YM2413 THINK, U2413, MY2413, U3567, and UM3567. The compatible switching circuit refers to MegaGRRL.
